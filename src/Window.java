@@ -10,5 +10,6 @@ public class Window extends JFrame{
         this.setSize(800, 800);
         this.setDefaultCloseOperation(EXIT_ON_CLOSE);
         this.setLocationRelativeTo(null);
+        
     }
 }
